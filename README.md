@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vexzy</h1>
 
-<!--
-**vexzy-dev/vexzy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python Developer from Kazakhstan 🇰🇿</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building web applications and automation with Python.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me
+
+- 🐍 Python Developer
+- 🌐 Flask
+- 💻 C++ (Basic)
+- 📚 Currently learning Django
+- 🌍 Languages: English 🇬🇧 • Russian 🇷🇺
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,flask,cpp,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📫 Contact
+
+- GitHub: **vexzy-dev**
